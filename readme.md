@@ -1,0 +1,1 @@
+[![Python CI](https://github.com/inspiretheheart07/ai_automate_quote_kl/actions/workflows/action.yml/badge.svg)](https://github.com/inspiretheheart07/ai_automate_quote_kl/actions/workflows/action.yml)
